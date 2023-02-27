@@ -138,7 +138,7 @@ public class Main {
 **
 */
 
-
+//Question 5
 //Using any of the enumeration methods taught in class (for…in  or for..of), log out each of the presidential candidates in this format:
 //	’Omoyele Sowore is the presidential candidate of AAC’
  
